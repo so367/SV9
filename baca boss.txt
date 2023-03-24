@@ -1,0 +1,1 @@
+Note ++ jangan make modules v baru. kalo ggak eror bug gak terkirim... Kalo girim bug harus jeda 2 mnt dan rajin hapus chat di wa bot nya
